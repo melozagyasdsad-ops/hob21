@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:barrel|true", "sophisticatedstorage:shulker_box|true", "sophisticatedstorage:jungle_storage_connector|true", "sophisticatedstorage:netherite_barrel|true", "sophisticatedstorage:stack_upgrade_omega_tier|true", "sophisticatedstorage:storage_input|true", "sophisticatedstorage:chest|true", "sophisticatedstorage:stack_downgrade_tier_2|true", "sophisticatedstorage:compacting_upgrade|true", "sophisticatedstorage:limited_barrel_4|true", "sophisticatedstorage:limited_barrel_3|true", "sophisticatedstorage:limited_barrel_2|true", "sophisticatedbackpacks:blasting_upgrade|true"]
+

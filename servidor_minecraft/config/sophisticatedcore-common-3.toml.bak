@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:barrel|true", "sophisticatedstorage:shulker_box|true", "sophisticatedstorage:jungle_storage_connector|true", "sophisticatedstorage:netherite_barrel|true", "sophisticatedstorage:stack_upgrade_omega_tier|true", "sophisticatedstorage:storage_input|true", "sophisticatedstorage:chest|true"]
+
